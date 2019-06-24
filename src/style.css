@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+.block {
+    margin: 15px 0;
+}
+
+.text-apply {
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    text-align: center;
+}
+
+.my-form-border {
+    display: inline-block;
+    border: 2px solid grey;
+}
+
+form {
+    margin: 40px;
+}
